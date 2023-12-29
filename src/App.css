@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+body{
+  margin: 0;
+  font-size: 18px;
+  overflow-x: hidden;
+}
+
+/* Mobile */
+#root {
+  width: 100%; 
+  max-width: 1200px; 
+  margin: 0% auto; 
+  min-height: 100vh;
+  background-color: #132B3B;
+}
+
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+/* others 
+@media (min-width: 600px) {
+  .container {}
+}
+
+*/

@@ -1,0 +1,20 @@
+.mapWrapper{
+    height: 100%;
+}
+
+.navWrapper{
+    width: 100%;
+    margin: 0 auto;
+    height: 10%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navWrapper img{
+    width: 40%;
+}
+
+.navWrapper button {
+    border: 0px;
+}
+
